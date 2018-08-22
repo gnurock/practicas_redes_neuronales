@@ -4,9 +4,8 @@
 # El modelo matemático mas simple de una neurona es un percptron.
 # El perceptron en las RNA recibe como señal de entrada el producto punto de los valores de entrada
 # y los pesos asociados a las mismas, produce una salida usando una funcón de activación mediante un
-# conjunto de reglas y un
-#  
-#  
+# conjunto de reglas y un proceso iterativo estos pesos se ajustaran con la finalidad de obtener una salida
+#próxima a la esperada.
 
 
 def sand(a,b):
